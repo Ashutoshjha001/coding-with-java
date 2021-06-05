@@ -1,1 +1,4 @@
-# coding-with-java
+# Coding-with-java
+
+##Basic Question
+##function and array

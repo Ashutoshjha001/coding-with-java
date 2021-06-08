@@ -22,4 +22,23 @@ viii)	revarr.java – Reverse of the array
 ix)	rotatearr.java – Rotate the array element
 x)	spnar.java – Find the spanning of array(max-min)
 xi)	subarray.java – sub array formed the base array
+xii)	firstandlast.java – first and last position of the given element in the array
+xiii)	highandlow.java – choosing the number or gave us the lower and higher number than that.
+
+3.	2D arrays:
+i)	Basicarray.java - Basic 2D array print
+ii)	Binsearch.java – Binary searching in a sorted array
+iii)	Exitpoint.java -game with a rule to move so there should be exit point
+iv)	Matmul.java -multiplication of the matrix
+v)	Ringrot.java -rotate the ring
+vi)	Rotate90d.java –rotation of ring by 90degree
+vii)	saddleprice.java –finding saddle price with given data
+viii)	statofwak2.java – finding the followed path
+ix)	transpose.java –transpose of the matrix
+x)	wavetrav.java -wave traversal of the matrix
+
+4.	String
+i)	Compression12.java – compressing the given string by two ways 1 & 2
+ii)	Palindrome.java – finding the palindromic substring in the given string
+
 

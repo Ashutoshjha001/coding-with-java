@@ -40,5 +40,26 @@ x)	wavetrav.java -wave traversal of the matrix
 4.	String
 i)	Compression12.java – compressing the given string by two ways 1 & 2
 ii)	Palindrome.java – finding the palindromic substring in the given string
+iii)	Perofstring.java – Permutation of a string iteratively
+iv)	Removeprime.java – Removing the prime number from string
+v)	Stringwdiff.java – String with diff of two consecutive character
+vi)	Toggle.java – toggle case in string
+
+5.	Recursion
+i)	Allindex.java – print all index of character
+ii)	DisArrbyRec.java – Display array in recursion
+iii)	DisArrRev.java – Display array in reverse by recursion
+iv)	Factorial.java – factorial of number
+v)	Firind.java – first index of char
+vi)	Lstindex.java – last index of char
+vii)	maxofArr.java – print max of array
+viii)	powlog.java – power logarithmic
+ix)	powr.java – power of number by rec
+x)	printdec.java – print dec by recursion
+xi)	printinc.java – print inc by recursion
+xii)	substring.java – print substring of string
+xiii)	toghanio.java – tower of Hanoi problemb
+xiv)	zigzag.java – zigzag way by recursion
+
 
 
